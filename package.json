@@ -1,17 +1,21 @@
 
 {
   "name": "rn-android-webview",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "React Native WebView for Android, enable file choose",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "WebView",
+    "file upload",
+    "file choose"
   ],
-  "author": "",
-  "license": "",
+  "author": "Chyrain",
+  "repository": "https://github.com/Chyrain/rn-android-webview",
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.55.4"
   }
