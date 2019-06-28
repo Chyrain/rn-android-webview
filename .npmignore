@@ -1,0 +1,23 @@
+node_modules
+**/build
+
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
+
+# BUCK
+buck-out/
+\.buckd/
+*.keystore
+ios/IflyManager/iflyMSC1
+android/libs1
+DebugIflyExample/
+      
+gradle-wrapper.jar
+gradle-wrapper.properties
+gradlew
+gradlew.bat
