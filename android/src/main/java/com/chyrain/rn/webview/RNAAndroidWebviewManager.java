@@ -44,8 +44,8 @@ import android.webkit.ValueCallback;
 import android.webkit.WebSettings;
 import android.webkit.CookieManager;
 
-import androidx.core.content.ContextCompat;
-import androidx.core.content.FileProvider;
+import android.support.v4.content.ContextCompat;
+import android.support.v4.content.FileProvider;
 
 import com.facebook.common.logging.FLog;
 import com.facebook.react.common.ReactConstants;
