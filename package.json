@@ -1,7 +1,7 @@
 
 {
   "name": "rn-android-webview",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Native WebView for Android, enable file choose",
   "main": "index.js",
   "scripts": {
